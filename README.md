@@ -4,7 +4,7 @@ Sharing folders to vagrant machines from host machine.
 ### Steps to follow
  - Download sourcode from git
  - You will find two folders 
-    - ###### Donotshare -> which is sharing files to vagrant machines
+    - ###### Donotshare -> which has sharing files for vagrant machines
     - ###### SharingBetweenVagrant -> vagrant machines
  - Change directory to using 
     ```sh
