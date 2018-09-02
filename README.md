@@ -2,7 +2,11 @@
 Sharing folders to vagrant machines from host machine.
 
 ### Steps to follow
- - Download sourcode from git
+ - Download sourcode from git and change directory to Vagrant-shared-Files
+    ```sh
+    git clone https://github.com/ankurpatel18/Vagrant-shared-Files.git
+    cd Vagrant-shared-Files
+    ```
  - You will find two folders 
     - ###### Donotshare -> which has sharing files for vagrant machines
     - ###### SharingBetweenVagrant -> vagrant machines
