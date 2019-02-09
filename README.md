@@ -1,4 +1,7 @@
 # Vagrant shared Files from host machine
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5de7c99d37e425e829b828b0729b97c)](https://app.codacy.com/app/ankurpatel18/Vagrant-shared-Files?utm_source=github.com&utm_medium=referral&utm_content=ankurpatel18/Vagrant-shared-Files&utm_campaign=Badge_Grade_Settings)
+
 Sharing folders to vagrant machines from host machine.
 
 ### Steps to follow
