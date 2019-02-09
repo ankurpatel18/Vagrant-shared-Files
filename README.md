@@ -18,6 +18,7 @@ Sharing folders to vagrant machines from host machine.
     cd SharingBetweenVagrant
     ```
 - Start Vagrant machines
+
 - Use SSH to go inside vagrant machine 
     ```sh
     vagrant ssh server1 
